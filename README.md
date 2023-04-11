@@ -52,5 +52,3 @@ O projeto vem com três usuários padrão, que podem ser utilizados para testar 
   name: Delivery App Admin
   email: adm@deliveryapp.com
   password: --adm2@21!!--
-
-
