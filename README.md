@@ -1,6 +1,6 @@
 ### Para inicializar o projeto em sua máquina:
 
-  - ⚠️ Todos os comandos descritos abaixo devem ser executados dentro da pasta raíz do projeto, após ser feito o clone do repositório com o comando `git clone git@github.com:ggtenari/blogs_api.git`.
+  - ⚠️ Todos os comandos descritos abaixo devem ser executados no terminal dentro da pasta raíz do projeto, após ser feito o clone do repositório com o comando `git clone git@github.com:ggtenari/blogs_api.git`.
 
   - ⚠️ O projeto só instala as dependências com a versão 16 do `node` para evitar conflitos de versão, caso não tenha essa versão instalada você pode usar o [`nvm`](https://github.com/nvm-sh/nvm#installing-and-updating) para fazer o gerenciamento de versões.
 
